@@ -1,7 +1,0 @@
-C:\Users\enocb\OneDrive\Escritorio\Proga1-Virtual-2024\TSNP205823_Bloque1\TSNP205823_Bloque1\bin\Debug\TSNP205823_Bloque1.exe.config
-C:\Users\enocb\OneDrive\Escritorio\Proga1-Virtual-2024\TSNP205823_Bloque1\TSNP205823_Bloque1\bin\Debug\TSNP205823_Bloque1.exe
-C:\Users\enocb\OneDrive\Escritorio\Proga1-Virtual-2024\TSNP205823_Bloque1\TSNP205823_Bloque1\bin\Debug\TSNP205823_Bloque1.pdb
-C:\Users\enocb\OneDrive\Escritorio\Proga1-Virtual-2024\TSNP205823_Bloque1\TSNP205823_Bloque1\obj\Debug\TSNP205823_Bloque1.csproj.AssemblyReference.cache
-C:\Users\enocb\OneDrive\Escritorio\Proga1-Virtual-2024\TSNP205823_Bloque1\TSNP205823_Bloque1\obj\Debug\TSNP205823_Bloque1.csproj.CoreCompileInputs.cache
-C:\Users\enocb\OneDrive\Escritorio\Proga1-Virtual-2024\TSNP205823_Bloque1\TSNP205823_Bloque1\obj\Debug\TSNP205823_Bloque1.exe
-C:\Users\enocb\OneDrive\Escritorio\Proga1-Virtual-2024\TSNP205823_Bloque1\TSNP205823_Bloque1\obj\Debug\TSNP205823_Bloque1.pdb
